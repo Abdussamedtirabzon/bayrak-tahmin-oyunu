@@ -6,4 +6,3 @@ APK dosyası app-release.apk  adındadır
 
 
 
--- Ticari amaç ile kullanılması yasakdır--
